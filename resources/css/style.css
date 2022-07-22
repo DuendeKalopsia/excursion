@@ -1,1 +1,12 @@
 
+
+/*Universal Styles*/
+* {
+    font-family: "Verdana", "Arial", sans-serif;
+    font-weight: normal;
+    color: white;
+    align-content: center;
+    text-align: center;
+    background-color:black;
+}
+
